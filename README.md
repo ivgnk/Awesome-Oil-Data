@@ -6,9 +6,9 @@ https://github.com/mlbelobraydi/TXRRC_data_harvest -  oil and gas well data from
 
 **https://github.com/cmdty/storage** -  Multi-Factor Least Squares Monte Carlo energy storage valuation model              
 
-### Oil Conventional Reserves
+### 🆗 Oil Conventional Reserves
 
-### :u: Oil UnConventional Reserves
+### 🆕 Oil UnConventional Reserves
 
 ### ↘️ Oil decline curve analysis
 https://github.com/Jeffalltogether/well_decline_curve_analysis
