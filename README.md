@@ -2,15 +2,15 @@
 
 https://github.com/mlbelobraydi/TXRRC_data_harvest -  oil and gas well data from the Texas Railroad Commission
 
-## Oil Reserves
+## 💎 Oil Reserves
 
 **https://github.com/cmdty/storage** -  Multi-Factor Least Squares Monte Carlo energy storage valuation model              
 
 ### Oil Conventional Reserves
 
-### Oil UnConventional Reserves
+### :u: Oil UnConventional Reserves
 
-### Oil decline curve analysis
+### ↘️ Oil decline curve analysis
 https://github.com/Jeffalltogether/well_decline_curve_analysis
 
 
@@ -23,7 +23,7 @@ https://github.com/syyunn/awesome-oils - Dynamic price data of Crude Oil and its
 ## 💵 Share prices in the Oil & Gas Industry                           
 https://github.com/pythonbravo/oil_price - Machine Learning to predict share prices in the Oil & Gas Industry                     
 
-## Oil Geologe & Geophysics
+## 🗻 Oil Geology & Geophysics
 https://github.com/algocompretto/awesome-oil-gas - A curated list of awesome petroleum datasets and repositories                   
 
 - - -
