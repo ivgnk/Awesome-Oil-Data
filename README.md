@@ -16,7 +16,7 @@ https://github.com/Jeffalltogether/well_decline_curve_analysis
 
 ## Oil Production
 
-## Oil Prices 💰                 
+## 💰 Oil Prices                  
 https://github.com/cmdty/curves - Tools for building commodity forward, swaps, and futures curves                   
 
 ## Share prices in the Oil & Gas Industry                           
