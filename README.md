@@ -27,7 +27,7 @@ https://github.com/pythonbravo/oil_price - Machine Learning to predict share pri
 https://github.com/algocompretto/awesome-oil-gas - A curated list of awesome petroleum datasets and repositories                   
 
 - - -
-# Github
+# 🏢 Github
 
 ## Commodities                 
 **https://github.com/cmdty** - Quantitative tools for the valuation and optimisation of physical commodity assets            
