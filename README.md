@@ -46,3 +46,5 @@ https://github.com/search?q=Awesome+Oil
 - - -
 # ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) R-lang                           
 
+- - -
+*[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)*        
