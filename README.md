@@ -17,10 +17,14 @@ https://github.com/Jeffalltogether/well_decline_curve_analysis
 ## Oil Production
 
 ## 💰 Oil Prices                  
-https://github.com/cmdty/curves - Tools for building commodity forward, swaps, and futures curves                   
+https://github.com/cmdty/curves - Tools for building commodity forward, swaps, and futures curves                    
+https://github.com/syyunn/awesome-oils - Dynamic price data of Crude Oil and its relevant quant-analyzed papers                
 
 ## 💵 Share prices in the Oil & Gas Industry                           
 https://github.com/pythonbravo/oil_price - Machine Learning to predict share prices in the Oil & Gas Industry                     
+
+## Oil Geologe & Geophysics
+https://github.com/algocompretto/awesome-oil-gas - A curated list of awesome petroleum datasets and repositories                   
 
 - - -
 # Github
