@@ -1,7 +1,10 @@
 # OIl-Data
 
 ## Oil Reserves
-## Oil Delone Curves
+- - -
+## Oil decline curve analysis
+https://github.com/Jeffalltogether/well_decline_curve_analysis
+
 
 ### Oil Conventional Reserves
 
@@ -10,4 +13,8 @@
 
 ## Oil Production
 
+- - -
+# Github
 
+## Commodities                 
+https://github.com/cmdty - Quantitative tools for the valuation and optimisation of physical commodity assets           
