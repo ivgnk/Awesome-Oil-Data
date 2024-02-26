@@ -29,11 +29,20 @@ https://github.com/bbcho/risktools-dev - Risk tools for commodities trading and 
 ## 🗻 Oil Geology & Geophysics
 https://github.com/algocompretto/awesome-oil-gas - A curated list of awesome petroleum datasets and repositories                   
 
-- - -
+
 # 🏢 Github
 
 ## Commodities                 
 **https://github.com/cmdty** - Quantitative tools for the valuation and optimisation of physical commodity assets            
 
 - - -
+Selected from
+https://github.com/topics/oil
+
+https://github.com/search?q=Awesome+Oil
+
+- - -
+
+- - -
 # ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) R-lang
+
