@@ -19,7 +19,7 @@ https://github.com/Jeffalltogether/well_decline_curve_analysis
 ## 💰 Oil Prices                  
 https://github.com/cmdty/curves - Tools for building commodity forward, swaps, and futures curves                   
 
-## Share prices in the Oil & Gas Industry                           
+## 💵 Share prices in the Oil & Gas Industry                           
 https://github.com/pythonbravo/oil_price - Machine Learning to predict share prices in the Oil & Gas Industry                     
 
 - - -
